@@ -1,0 +1,41 @@
+**********
+
+Copyright 2018 UVic Industry Partnerships Inc and École polytechnique fédérale
+de Lausanne (EPFL).
+
+** LICENSE ** 
+
+Redistribution and use of this software in source and binary forms, with or
+without modification, are permitted for non-commercial research purposes,
+provided that the following conditions are met: 
+
+1. Redistributions of source code must retain the above copyright notice, this
+LICENSE, and the following DISCLAIMER.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this LICENSE, and the following DISCLAIMER in the documentation and/or other
+materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+Some uses and/or embodiments of this software may be protected by one or more
+patents and/or pending patent applications, including but not limited to PCT
+Application 62/374,859. No express or implied patent license is granted by this
+LICENSE.
+
+** DISCLAIMER ** 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+*********
